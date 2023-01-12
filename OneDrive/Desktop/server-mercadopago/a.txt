@@ -1,0 +1,11 @@
+http://localhost:3000/success?
+collection_id=53552509111
+&collection_status=approved
+&payment_id=53552509111
+&status=approved
+&external_reference=null
+&payment_type=account_money
+&merchant_order_id=7242392420
+&preference_id=1285289757-e39bcea6-209a-4d8e-909c-1e90ceaf41ee
+&site_id=MLU&processing_mode=aggregator
+&merchant_account_id=null
